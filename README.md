@@ -8,3 +8,5 @@ i changed this file how i want and this is that sentense that i added to the hel
 
 in dovomin khatie ke ezafe kardam inam ba branche readme-finish
 >>>>>>> refs/remotes/origin/readme-edits
+
+inam bayad ezafe konam bebinam mishe pull kard ya na
